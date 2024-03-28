@@ -1,0 +1,11 @@
+h1,
+#counter-label,
+#buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#counter-label {
+  font-size: 48px;
+}
