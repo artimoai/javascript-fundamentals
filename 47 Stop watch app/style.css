@@ -1,0 +1,24 @@
+.timer-btn {
+  width: 80px;
+  height: 30px;
+  border: 2px solid;
+  border-radius: 12px;
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+  font-family: consolas, monospace;
+}
+
+#timeDisplay {
+  font-size: 64px;
+  color: lawngreen;
+  font-family: consolas, monospace;
+}
+
+#stopWatchContainer {
+    width: 320px;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 24px;
+    background-color: #2f2f2f;
+}
